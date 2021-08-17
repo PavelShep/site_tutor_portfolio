@@ -1,0 +1,30 @@
+.about {
+    margin: 8.4rem 0;
+}
+
+.about__inner{
+    display: flex;
+    max-width: 1090px;
+    padding-bottom: 120px;
+    border-bottom: 1px solid;
+}
+
+.about__photo {
+    width: 50%;
+}
+
+.about__text {
+    width: 50%;
+    margin-left: 30%;
+    font-size: 1.1rem;
+
+}
+
+.about__title{
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.about__text p{
+    margin: 7px 0px;
+}

@@ -15,3 +15,9 @@ body{
     line-height: 18px;
     color: #5e5e5e;
 }
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
