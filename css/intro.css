@@ -32,6 +32,9 @@
     bottom: 0;
     right: 0;
     z-index: 1;
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
 }
 
 .btn{
@@ -50,4 +53,4 @@
 .btn:hover{
     background-color: black;
     color: white;
-} 
+}
