@@ -17,7 +17,6 @@
     width: 50%;
     margin-left: 30%;
     font-size: 1.1rem;
-
 }
 
 .about__title{
@@ -27,4 +26,21 @@
 
 .about__text p{
     margin: 7px 0px;
+}
+
+.about__stat{
+    display: flex;
+    max-width: 1090px;
+    padding-top: 100px;
+}
+
+.about__stat__content{
+    width: 34%;
+    font-size: 1.1rem;
+}
+
+.about__stat__content p{
+    font-size: 3rem;
+    font-weight: 700;
+    color: black;
 }
